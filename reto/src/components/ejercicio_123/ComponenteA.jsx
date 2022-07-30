@@ -1,6 +1,6 @@
 import React from 'react';
 import { Contacto } from '../../models/contacto_class';
-import ComponenteB from '../pure/ComponenteB';
+import ComponenteB from '../ejercicio_123/ComponenteB';
 
 const ComponenteA = () => {
 
