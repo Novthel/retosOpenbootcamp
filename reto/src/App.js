@@ -1,7 +1,11 @@
 
 import './App.css';
+import AppRouting from './components/ejercicio_16_17_18/AppRouting';
+
+// import Figura from './components/ejercicio_101112/figura';
+// import FiguraGeometrica from './components/ejercicio_10_11_12/FiguraGeometrica';
 // import ComponenteA from './components/ejercicio_123/ComponenteA';
-import ContactList from './components/ejercicio_789/ContactList';
+// import ContactList from './components/ejercicio_789/ContactList';
 // import Clock from './components/ejercicio456/Clock';
 // import ClockFunction from './components/ejercicio456/ClockFunction';
 
@@ -17,8 +21,14 @@ function App() {
         <ClockFunction/> */}
 
         {/* Ejercicio secciones 7-8-9 */}
-        <ContactList />
+        {/* <ContactList /> */}
 
+        {/* Ejercicio secciones 10-11-12 */}
+        {/* <Figura /> */}
+        {/* <FiguraGeometrica /> */}
+
+        {/* Ejercicio secciones 16-17-18 */}
+        <AppRouting />
     </div>
   );
 }
